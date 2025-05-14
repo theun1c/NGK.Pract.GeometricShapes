@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NGK.Pract.GeometricShapes.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a10af80d84f1b475eb586785e257bca4ff7807c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa5201e3e03604c0aa29b942f08485e10da2e125")]
 [assembly: System.Reflection.AssemblyProductAttribute("NGK.Pract.GeometricShapes.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NGK.Pract.GeometricShapes.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
