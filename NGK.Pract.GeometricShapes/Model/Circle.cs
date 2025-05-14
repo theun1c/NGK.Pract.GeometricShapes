@@ -11,15 +11,7 @@ namespace NGK.Pract.GeometricShapes.Model
     /// TODO: методы для вычисления площади и периметра
     /// </summary>
     public class Circle
-    {
-        /// <summary>
-        /// конструктор, принимающий значение радиуса
-        /// </summary>
-        /// <param name="radius"></param>
-        public Circle(double radius)
-        {
-            Radius = radius;
-        }
+    {    
         public double Radius { get; set; }
         public double Diameter => Radius * 2;  
 

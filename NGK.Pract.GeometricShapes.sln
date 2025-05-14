@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGK.Pract.GeometricShapes", "NGK.Pract.GeometricShapes\NGK.Pract.GeometricShapes.csproj", "{92531F23-E3B1-4F8F-B80C-27DDB4FFABE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGK.Pract.GeometricShapes.Tests", "NGK.Pract.GeometricShapes.Tests\NGK.Pract.GeometricShapes.Tests.csproj", "{953594BB-4A28-4F9D-BBC0-E80EC60FC01F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{92531F23-E3B1-4F8F-B80C-27DDB4FFABE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92531F23-E3B1-4F8F-B80C-27DDB4FFABE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92531F23-E3B1-4F8F-B80C-27DDB4FFABE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953594BB-4A28-4F9D-BBC0-E80EC60FC01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953594BB-4A28-4F9D-BBC0-E80EC60FC01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953594BB-4A28-4F9D-BBC0-E80EC60FC01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953594BB-4A28-4F9D-BBC0-E80EC60FC01F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
